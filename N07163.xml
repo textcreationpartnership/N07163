@@ -107,8 +107,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009127_0000_10310709563C5E18"/>
-            <pb facs="tcp:009127_0001_1031070E4CDCADC8"/>
+            <pb facs="unknown:009127_0000_10310709563C5E18"/>
+            <pb facs="unknown:009127_0001_1031070E4CDCADC8"/>
             <p>THE COURT OF FANCY; A POEM.</p>
             <p>
                <hi>BY</hi> THOMAS GODFREY.</p>
@@ -122,7 +122,7 @@
             <p>PHILADELPHIA: Printed and Sold by WILLIAM DUNLAP, M,DCC,LXII.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:009127_0002_10310710189B1668"/>
+            <pb facs="unknown:009127_0002_10310710189B1668"/>
             <head>ADVERTISEMENT, by the EDITOR.</head>
             <p>WHEN the <hi>Author</hi> of the following Poem returned to this City, he was concerned to find that ſeveral incorrect Copies of his firſt Plan had been handed about; and was under ſome Apprehenſion, leſt it ſhould fall into the Hands of ſome one, who (biaſſed by Novelty) might publiſh it in that im<g ref="char:EOLhyphen"/>mature State, in his Abſence. This, added to the Expectations, the Authors of the <hi>American MAGAZINE</hi> have given the Publick, of receiving it one Day from the Preſs, have induced him to furniſh a Copy to be ſubmitted to their Candour, ſooner than he otherwiſe in<g ref="char:EOLhyphen"/>tended. He would not however permit it to be publiſhed, without an Acknowledgment, that he took the <hi>Hint</hi> of the Tranſition, from the Court of <hi>Fancy</hi> to that of <hi>Deluſion,</hi> from <hi>Chaucer</hi>'s Change from the Houſe of <hi>Fame,</hi> to that of <hi>Rumour;</hi> and that in deſcribing the Walls of the Court of <hi>Fancy,</hi> he had his Eye on the Deſcription of the Temple of <hi>Fame.</hi>
             </p>
@@ -131,7 +131,7 @@
       <body>
          <div type="poem">
             <pb n="3"
-                facs="tcp:009127_0003_1031071342B62EF0"
+                facs="unknown:009127_0003_1031071342B62EF0"
                 rendition="simple:additions"/>
             <head>THE <hi>COURT</hi> OF <hi>FANCY.</hi>
             </head>
@@ -154,7 +154,7 @@
                <l>And ever ended where I firſt begun.</l>
             </lg>
             <lg>
-               <pb n="4" facs="tcp:009127_0004_10310714CCAD29B8"/>
+               <pb n="4" facs="unknown:009127_0004_10310714CCAD29B8"/>
                <l n="15">While thus I lab'ring ſtrove t'explore my Way,</l>
                <l>Bright on my Senſe broke unexpected Day.</l>
                <l>Retiring Night in haſte withdrew her Shade,</l>
@@ -183,7 +183,7 @@
                <l>To view what powerful Muſick cou'd compleat.</l>
             </lg>
             <lg>
-               <pb n="5" facs="tcp:009127_0005_10310719E5559E00"/>
+               <pb n="5" facs="unknown:009127_0005_10310719E5559E00"/>
                <l>HIGH on a Mountain was the Pile diſclos'd,</l>
                <l n="40">And ſpreading Limes th'aſcending Walks compos'd;</l>
                <l>While far below the waving Woods declin'd,</l>
@@ -211,7 +211,7 @@
                <l>Trembling I ſtood abſorb'd in dread Surprize,</l>
                <l>And ſudden Glory dim'd my aching Eyes.</l>
                <l>
-                  <pb n="6" facs="tcp:009127_0006_1031071BC42727F8"/>Unnumber'd Pillars all around were plac'd,</l>
+                  <pb n="6" facs="unknown:009127_0006_1031071BC42727F8"/>Unnumber'd Pillars all around were plac'd,</l>
                <l>Their Capitals with artful Sculpture grac'd;</l>
                <l n="65">Wide round the Roof a fictious Sky was rais'd,</l>
                <l>A glorious Sun in the Meridian blaz'd,</l>
@@ -238,7 +238,7 @@
                <l n="85">Perch'd on a lofty Rock Aeolus ſtands,</l>
                <l>And holds the Winds in ſtrong coercive Bands.</l>
                <l>
-                  <pb n="7" facs="tcp:009127_0007_1031072229CE4158"/>Here the bright Queen of Beauty ſtood confeſs'd;</l>
+                  <pb n="7" facs="unknown:009127_0007_1031072229CE4158"/>Here the bright Queen of Beauty ſtood confeſs'd;</l>
                <l>There angry Mars in martial Honours dreſs'd.</l>
                <l>Alcides next appear'd with warrior Pride,</l>
                <l n="90">The Lion's Spoil deſcending o'er his Side:</l>
@@ -266,7 +266,7 @@
                <l>And horrid Moloch ſmear'd with Infant Blood.</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:009127_0008_10310723B1C1D6B8"/>
+               <pb n="8" facs="unknown:009127_0008_10310723B1C1D6B8"/>
                <l>NORTHWARD fierce Woden ſtood with Terrors crown'd,</l>
                <l n="110">And angry Thor threw heedleſs Thunder round.</l>
                <l>Fair Friga with her lovely Train was ſeen,</l>
@@ -296,7 +296,7 @@
                <l>And threaten Jove with the promiſcuous War.</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:009127_0009_103107254C0F4BA8"/>
+               <pb n="9" facs="unknown:009127_0009_103107254C0F4BA8"/>
                <l>BOLD Phaeton here urges his Requeſt,</l>
                <l>Ambitious Joy ſwells his preſumptuous Breaſt,</l>
                <l>Elate in Thought he mounts <gap reason="illegible: indecipherable" extent="1 span">
@@ -326,7 +326,7 @@
                <l>FAM'D Daedalus here wings the midway Air,</l>
                <l>And ſighing ſees his Son diſdain his Care.</l>
                <l>
-                  <pb n="10" facs="tcp:009127_0010_1031072875D036F0"/>Young Icarus on ſpreading Pinions roſe,</l>
+                  <pb n="10" facs="unknown:009127_0010_1031072875D036F0"/>Young Icarus on ſpreading Pinions roſe,</l>
                <l n="155">And ſcorn'd the Path his wary Sire had choſe;</l>
                <l>For Heav'n th' aſpiring Boy his Flight begun,</l>
                <l>But felt the Ardor of too near a Sun;</l>
@@ -355,7 +355,7 @@
                <l>WHATEVER Dreamer dream't, or Poet ſung.</l>
                <l n="175">Or lying Fable with her double Tongue</l>
                <l>
-                  <pb n="11" facs="tcp:009127_0011_1031072EDC2BEDE8"/>Told the believing World, here now appear,</l>
+                  <pb n="11" facs="unknown:009127_0011_1031072EDC2BEDE8"/>Told the believing World, here now appear,</l>
                <l>Deluſions all; for when approaching near</l>
                <l>They ſhun the View, and ſhrink to empty Air.</l>
             </lg>
@@ -382,7 +382,7 @@
                <l>And boldly ſhot among th' aſſembl'd Gods.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:009127_0012_1031073065965C38"/>
+               <pb n="12" facs="unknown:009127_0012_1031073065965C38"/>
                <l>ON her right Hand appear'd the joyful Nine,</l>
                <l n="200">And on her left the Graces all divine:</l>
                <l>Young infant Love ſoft on her Breaſt reclin'd,</l>
@@ -421,7 +421,7 @@
                <l>And echoing Groves reſound thy glorious Name.</l>
             </lg>
             <lg>
-               <pb n="13" facs="tcp:009127_0013_10310731F140B420"/>
+               <pb n="13" facs="unknown:009127_0013_10310731F140B420"/>
                <l>WHILE thus around my Eyes I wildly threw,</l>
                <l>From Charm to Charm, and did each Wonder view,</l>
                <l n="225">Pleas'd on the heav'nly Raviſhment to gaze,</l>
@@ -451,7 +451,7 @@
                <l n="245">And ſoon with wild poetic Rage poſſeſs'd</l>
                <l>All my Frame ſhook, and lab'ring heav'd my Breaſt;</l>
                <l>
-                  <pb n="14" facs="tcp:009127_0014_1031073528DE8640"/>By Fancy fir'd, enraptur'd thus I ſung,</l>
+                  <pb n="14" facs="unknown:009127_0014_1031073528DE8640"/>By Fancy fir'd, enraptur'd thus I ſung,</l>
                <l>Whilſt all around redoubling echoes rung.</l>
             </lg>
             <lg>
@@ -481,7 +481,7 @@
                <l>ZEPHYR obedient on his Wings convey'd</l>
                <l>The joyful Summons, warbling thro' the Glade;</l>
                <l>
-                  <pb n="15" facs="tcp:009127_0015_10310736B3420E18"/>Swiftly he ſwept along the ſpicy Vale,</l>
+                  <pb n="15" facs="unknown:009127_0015_10310736B3420E18"/>Swiftly he ſwept along the ſpicy Vale,</l>
                <l n="270">Caught all its Sweets, and in a balmy Gale,</l>
                <l>Gently he ſtole on the fond Lover's Ear,</l>
                <l>And in loud Accents bid the Warrior hear.</l>
@@ -514,7 +514,7 @@
                <l>In her right Hand, ſhe held a magic Glaſs,</l>
                <l>From whence around reflected Glories paſs;</l>
                <l>
-                  <pb n="16" facs="tcp:009127_0016_1031073ECD418248"/>Blind by the ſubtle Rays, the giddy Croud</l>
+                  <pb n="16" facs="unknown:009127_0016_1031073ECD418248"/>Blind by the ſubtle Rays, the giddy Croud</l>
                <l>Ruſh wildly from the Dome, and ſhout aloud:</l>
                <l n="295">The Few remain, whom <hi>Fancy</hi> did inſpire,</l>
                <l>Yet undeceiv'd by vain <hi>Deluſion</hi>'s Fire.</l>
@@ -545,7 +545,7 @@
                <l>The human Soul with Virtue's ſacred Fire.</l>
             </lg>
             <lg>
-               <pb n="17" facs="tcp:009127_0017_103107409FFA3FB0"/>
+               <pb n="17" facs="unknown:009127_0017_103107409FFA3FB0"/>
                <l>THEN <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> forward mov'd in Garlands dreſt,</l>
@@ -578,7 +578,7 @@
                <l>Sweetly enraptur'd, then my Pulſe beat high,</l>
                <l>And my Breaſt glow'd, fraught with unuſual Joy.</l>
                <l>
-                  <pb n="18" facs="tcp:009127_0018_1031074228952900"/>'Tis Harmony can ev'ry Paſſion move,</l>
+                  <pb n="18" facs="unknown:009127_0018_1031074228952900"/>'Tis Harmony can ev'ry Paſſion move,</l>
                <l n="340">Give Sorrow eaſe, or melt the Soul to Love;</l>
                <l>Exulting Pleaſure to her Call attends,</l>
                <l>E'en ſtormy Rage to powerful Muſic bends.</l>
@@ -612,7 +612,7 @@
                <l>Purſue <hi>their</hi> Lore, and taſte each riſing Joy.</l>
             </lg>
             <lg>
-               <pb n="19" facs="tcp:009127_0019_10303250E1FEA6E8"/>
+               <pb n="19" facs="unknown:009127_0019_10303250E1FEA6E8"/>
                <l>NOW ſuddenly the Scene was chang'd again,</l>
                <l>And brought to View <hi>Deluſion</hi>'s ſpreading Reign;</l>
                <l n="365">There intermingl'd Hills and Rocks were ſeen,</l>
@@ -639,7 +639,7 @@
                <l n="385">Affright the Vigil, or in wanton Mirth</l>
                <l>Make Fools ſeek hidden Treaſures in the Earth,</l>
                <l>
-                  <pb n="20" facs="tcp:009127_0020_1031074552BAF7B8"/>Or lead the weary Traveller awry,</l>
+                  <pb n="20" facs="unknown:009127_0020_1031074552BAF7B8"/>Or lead the weary Traveller awry,</l>
                <l>Or riſing Flame Amazement in the Sky.</l>
             </lg>
             <lg>
@@ -668,7 +668,7 @@
                <l>And ſhines the empty Pageant of an Hour.</l>
             </lg>
             <lg>
-               <pb n="21" facs="tcp:009127_0021_1031074BB6BE1960"/>
+               <pb n="21" facs="unknown:009127_0021_1031074BB6BE1960"/>
                <l>DAME <hi>Superſtition</hi> was the next came on,</l>
                <l n="410">Bright on her Head the gilded Mitre ſhone,</l>
                <l>Varying her Aſpect, now ſhe rais'd her Eye,</l>
@@ -700,7 +700,7 @@
                <l>This caught a gaudy Wing, and that a pointed Fang.</l>
             </lg>
             <lg>
-               <pb n="22" facs="tcp:009127_0022_1031074D46689C18"/>
+               <pb n="22" facs="unknown:009127_0022_1031074D46689C18"/>
                <l>BEFORE the giddy Throng, which now advanc'd,</l>
                <l>With mincing Step gay <hi>diſolution</hi> danc'd;</l>
                <l n="435">Then ſudden ſtopp'd, and ſtaring on the Croud</l>
@@ -733,7 +733,7 @@
                <l n="455">But who allur'd by her inchanting Song,</l>
                <l>From Virtue ſhrinks, and mingles with her Throng,</l>
                <l>
-                  <pb n="23" facs="tcp:009127_0023_1031074F16A39010"/>Soon ſees her Beauties fade, and to his Eyes</l>
+                  <pb n="23" facs="unknown:009127_0023_1031074F16A39010"/>Soon ſees her Beauties fade, and to his Eyes</l>
                <l>Deformity and ſad Diſeaſe ariſe.</l>
             </lg>
             <lg>
@@ -766,7 +766,7 @@
                <l n="480">Their Country wounded by each fatal Blow.</l>
             </lg>
             <lg>
-               <pb n="24" facs="tcp:009127_0024_103107524D035450"/>
+               <pb n="24" facs="unknown:009127_0024_103107524D035450"/>
                <l>WITH chequer'd hood <hi>Diſſembling</hi> ſtood behind.</l>
                <l>And <hi>Falſhood</hi> coining lies to cheat Mankind;</l>
                <l>While with ſmooth Art deceitful <hi>Faery</hi>
